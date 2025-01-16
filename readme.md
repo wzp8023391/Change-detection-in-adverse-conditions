@@ -39,6 +39,6 @@ python Parameter.py
 ```python
 Author:  Wang Z, Wang Z, Tang X, Zhang Q, et al. 
 Title:   Robust Remote Sensing Change Detection in Adverse Conditions with An Image-Adaptive Method. 
-Journal: Our paper is undergoing review. 
+Journal: TGRS 2024. 
 Date:    2024
 ```
